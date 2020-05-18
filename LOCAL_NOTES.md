@@ -8,6 +8,11 @@ ng new testing
 ng test
 ```
 
+# Components
+```
+ng g c user
+```
+
 # Git
 ```
 git remote add origin https://github.com/johnwr-response/atcg-testing.git
